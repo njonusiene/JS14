@@ -1,0 +1,16 @@
+const questions = [
+    {text: "Kam naudingos morkos?",
+    choices: ["Niekam", "Hitleriui", "Kepenims", "Odai"],
+    answer: "Odai"},
+    {text: "Kam naudingi obuoliai?",
+    choices: ["Širdžiai", "Kojoms", "Delfinams", "Virškinimui"],
+    answer: "Virškinimui"},
+    {text: "Kokias ligas padeda gydyti agrastai?",
+    choices: ["Cukrini diabetą", "Kepenų cirozę", "Nemiga", "Vėžį"],
+    answer: "Cukrini diabetą"},
+    {text: "Kokio vitamino gausu apelsinuose?",
+    choices: ["Vitamino E", "Vitamino A", "Vitamino C", "Vitamino B"],
+    answer: "Vitamino C"},
+    {text: "Kokiais dalykais yra turtingi arbūzai?",
+    choices: ["Vitaminais", "Mineralais", "Antioksidantais", "Visi teisingi"],
+    answer: "Visi teisingi"}]
